@@ -9,17 +9,17 @@ This is forked from https://github.com/Uberi/Autocomplete and edited the wordlis
 
 This also capitalize months and days. The following are also used as hotstrings. 
 
-yon >> 'yon
-yong >> 'yong
-yan >> 'yan
-yang >> 'yang
-konti >> kaunti
-tas >> tapos
-diba >> 'di ba
-sya >> siya
-nya >> niya
-sbi >> sabi
-dyn >> diyan
+yon >> 'yon  
+yong >> 'yong  
+yan >> 'yan  
+yang >> 'yang  
+konti >> kaunti  
+tas >> tapos  
+diba >> 'di ba  
+sya >> siya  
+nya >> niya  
+sbi >> sabi  
+dyn >> diyan  
 
 Example is the abbreviation "tas" will automatically replaced with "tapos" after ending it with space, period or enter.
 
