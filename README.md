@@ -21,7 +21,7 @@ nya >> niya
 sbi >> sabi  
 dyn >> diyan  
 
-Example is the abbreviation "tas" will automatically replaced with "tapos" after ending it with space, period or enter.
+Example is if you type "tas", it will automatically be replaced with "tapos" after ending it with space, period or enter.
 
 Using
 -----
