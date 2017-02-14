@@ -472,3 +472,57 @@ URLDecode(Encoded)
     StringReplace, Encoded, Encoded, `%25, `%, All
     Return, Encoded
 }
+
+
+
+;-------------------------------------------------------------------------------
+;  Capitalise dates
+;-------------------------------------------------------------------------------
+::monday::Monday
+::tuesday::Tuesday
+::wednesday::Wednesday
+::thursday::Thursday
+::friday::Friday
+::saturday::Saturday
+::sunday::Sunday 
+
+::lunes::Lunes
+::martes::Martes
+::miyerkules::Miyerkules
+::huwebes::Huwebes
+::biyernes::Biyernes
+::sabado::Sabado
+
+::january::January
+::february::February
+; ::march::March  ; Commented out because it matches the common word "march".
+::april::April
+; ::may::May  ; Commented out because it matches the common word "may".
+::june::June
+::july::July
+::august::August
+::september::September
+::october::October
+::november::November
+::december::December
+
+::enero::Enero
+::pebrero::Pebrero
+::marso::Marso
+::abril::Abril
+::mayo::Mayo
+::hunyo::Hunyo
+::hulyo::Hulyo
+::agosto::Agosto
+::septiyembre::Septiyembre
+::oktubre::Oktubre
+::nobyembre::Nobyembre
+::disyembre::Disyembre
+
+::yon::'yon
+::yong::'yong
+::yan::'yan
+::yang::'yang
+::konti::kaunti
+::tas::tapos
+::diba::'di ba
