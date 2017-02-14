@@ -14,7 +14,7 @@ MaxResults := 20 ;maximum number of results to display
 OffsetX := 0 ;offset in caret position in X axis
 OffsetY := 20 ;offset from caret position in Y axis
 BoxHeight := 165 ;height of the suggestions box in pixels
-ShowLength := 4 ;minimum length of word before showing suggestions
+ShowLength := 3 ;minimum length of word before showing suggestions
 CorrectCase := True ;whether or not to fix uppercase or lowercase to match the suggestion
 
 NormalKeyList := "a`nb`nc`nd`ne`nf`ng`nh`ni`nj`nk`nl`nm`nn`no`np`nq`nr`ns`nt`nu`nv`nw`nx`ny`nz" ;list of key names separated by `n that make up words in upper and lower case variants
@@ -472,7 +472,6 @@ URLDecode(Encoded)
     StringReplace, Encoded, Encoded, `%25, `%, All
     Return, Encoded
 }
-
 
 
 ;-------------------------------------------------------------------------------
