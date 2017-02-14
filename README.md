@@ -7,12 +7,28 @@ This is forked from https://github.com/Uberi/Autocomplete and edited the wordlis
 
 ![Screenshot](Screenshot.png)
 
+This also capitalize months and days. The following are also used as hotstrings. 
+
+yon >> 'yon
+yong >> 'yong
+yan >> 'yan
+yang >> 'yang
+konti >> kaunti
+tas >> tapos
+diba >> 'di ba
+sya >> siya
+nya >> niya
+sbi >> sabi
+dyn >> diyan
+
+Example is the abbreviation "tas" will automatically replaced with "tapos" after ending it with space, period or enter.
+
 Using
 -----
 
 1. Extract the archive to a safe location.
-2. If you downloaded the binaries, open `Autocomplete.exe`.
-3. If you downloaded the source, make sure you have a recent version of [AutoHotkey](http://www.autohotkey.com/) installed, and run `Autocomplete.ahk`.
+2. Simply open `Autocomplete.exe`.
+3. If you want to run the source, make sure you have a recent version of [AutoHotkey](http://www.autohotkey.com/) installed, and run `Autocomplete.ahk`.
 4. Start typing somewhere. After the first few characters, a suggestion box will appear.
 5. Use the `Up` and `Down` arrow keys to select an entry if the currently selected one is not the desired word.
 6. Press `Enter` or `Tab` to trigger the completion with the currently selected word.
