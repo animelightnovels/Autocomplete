@@ -1,9 +1,9 @@
-Autocomplete by Uberi
+Autocomplete by Uberi  (Tagalog/Filipino version)
 =====================
 Suggests and completes words as you type! Write faster and more efficiently.
+This is forked from https://github.com/Uberi/Autocomplete and edited the wordlist in Tagalog or Filipino.
 
-# [Get the latest version](https://github.com/Uberi/Autocomplete/archive/master.zip)
-# [See stable releases/binaries](https://github.com/Uberi/Autocomplete/releases/)
+# [Get this Tagalog version](https://github.com/nioree/Autocomplete/archive/master.zip)
 
 ![Screenshot](Screenshot.png)
 
