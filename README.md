@@ -27,6 +27,8 @@ The dialog also allows you to edit the wordlist by adding or removing words. All
 
 The wordlist is contained in `WordList.txt`. Each line represents a word. The list can be edited with a text editor, but ensure the editor supports larger files before doing so! Some may crash or hang upon editing such files.
 
+The Tagalog word source was from http://tagalog.pinoydictionary.com/
+
 Settings are stored in `Settings.ini` in the program directory. This contains a few more settings not accessible in the settings dialog, mainly the key settings.
 
 Key settings are URL encoded lists of key names such as `Space` and `d` where each entry is separated by a newline (the URL encoded version of a newline is `%0A`). They can be edited to change the keys accepted by the program.
